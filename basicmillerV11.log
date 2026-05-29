@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Vikyath J\Downloads\vlsi\2STAGE-MILLER-OPAMP\basicmillerV11.net
+Start Time: Mon Apr 20 08:55:45 2026
+solver = Normal
+Maximum thread count: 6
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.168 seconds.
+
+Files loaded:
+C:\Users\Vikyath J\Downloads\vlsi\2STAGE-MILLER-OPAMP\basicmillerV11.net
+C:\Users\Vikyath J\AppData\Local\LTspice\lib\cmp\standard.mos
+
